@@ -1,2 +1,7 @@
-<p style="color#003399;font-size:18px;font-weight:bold;text-align:center;">Mah Story</p>
-<p style="color:#000080;font-size:14px;font-weight:normal;text-align:center,">There be a little boi that be going to the park. He be playing on the playground and the see-saw. He be mindin’ his own business but then he be shot by a white guy ‘cause he black. He be rushed to the hospital and he didn’t die. 
+<p style="color:#003399;font-size:18px;font-weight:bold;text-align:center;">Mah Story</p>
+<p style="color:#000080;font-size:14px;font-weight:normal;text-align:center,">There be a little boi that be going to the park. He be playing on the playground and the see-saw. He be mindin’ his own business but then he be shot by a white guy ‘cause he black. He be rushed to the hospital and he didn’t die.</p> 
+<p style="color:#191970;font-size:14px;font-weight:normal;text-align:center,">He be saved by the black doctors ONLY. They the only people that be carin’ ‘cause they be black. Even the ambulance driver be black. The little boi’s friends all be black.</p>
+<p style="color:#006400;font-size:14px;font-weight:normal;text-align:center,">The white guy don’t be havin’ to go to jail ‘cause there be a white police that be seein’ the black kid get shot. He just laughed and be walkin’ away.</p>
+<p style="color:#778899;font-size:14px;font-weight:normal;text-align:center,">After the black boi be healed, he be goin’ to get himself a gun. Then, he be on the lookout for the white boi that shot him.</p>
+<p style="color:#696969;font-size:14px;font-weight:normal;text-align:center,">When he found the white boi, he be shootin’ him up like a school. The police that saw nearby be black and just laughed and be walkin’ away.</p>
+<p style="color:#000080;font-size:14px;font-weight:normal;text-align:center,">So, the moral of the story is do not be racist.
