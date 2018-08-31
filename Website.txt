@@ -1,7 +1,21 @@
-<p style="color:#0000cd;font-size:18px;font-weight:bold;text-align:center;">Mah Story</p>
+<p style="color:#0000cd;font-size:40px;font-weight:bold;text-align:center;">Mah Story</p>
 <p style="color:#228b22;font-size:14px;font-weight:normal;text-align:center,">There be a little boi that be going to the park. He be playing on the playground and the see-saw. He be mindin’ his own business but then he be shot by a white guy ‘cause he black. He be rushed to the hospital and he didn’t die.</p> 
 <p style="color:#228b22;font-size:14px;font-weight:normal;text-align:center,">He be saved by the black doctors ONLY. They the only people that be carin’ ‘cause they be black. Even the ambulance driver be black. The little boi’s friends all be black.</p>
 <p style="color:#228b22;font-size:14px;font-weight:normal;text-align:center,">The white guy don’t be havin’ to go to jail ‘cause there be a white police that be seein’ the black kid get shot. He just laughed and be walkin’ away.</p>
 <p style="color:#228b22;font-size:14px;font-weight:normal;text-align:center,">After the black boi be healed, he be goin’ to get himself a gun. Then, he be on the lookout for the white boi that shot him.</p>
 <p style="color:#228b22;font-size:14px;font-weight:normal;text-align:center,">When he found the white boi, he be shootin’ him up like a school. The police that saw nearby be black and just laughed and be walkin’ away.</p>
-<p style="color:#228b22;font-size:14px;font-weight:normal;text-align:center,">So, the moral of the story is do not be racist.
+<p style="color:#228b22;font-size:14px;font-weight:normal;text-align:center,">So, the moral of the story is do not be racist.</p>
+
+
+
+<p style="color:#191970;font-size:40px;font-weight:normal;text-align:center,">The Revised Edition of Mah Story</p>
+<p style="color:#00fa9a;font-size:14px;font-weight:normal;text-align:center,">There was a little boy that went to the park. He was playing on the playground and the see-saw. He was minding his own business when he got shot by a white guy because he was black. Then he was rushed to the hospital and he didn’t die.</p>
+<p style="color:#00fa9a;font-size:14px;font-weight:normal;text-align:center,">He was saved by the black doctors ONLY. They were the only people that cared because they were black. Even the ambulance driver was black.</p>
+<p style="color:#00fa9a;font-size:14px;font-weight:normal;text-align:center,">The white boy didn’t have to go to jail because a white police was nearby when the black boy got shot. The police just laughed and walked away.</p>
+<p style="color:#00fa9a;font-size:14px;font-weight:normal;text-align:center,">When the black boy healed, he went to go get himself a gun. Then he was on the lookout for the white boy that shot him.</p>
+<p style="color:#00fa9a;font-size:14px;font-weight:normal;text-align:center,">When he found the white boy, he shot him up like a school. The police that saw nearby was black so just laughed and walked away.
+<p style="color:#00fa9a;font-size:14px;font-weight:normal;text-align:center,">So, the moral of the story is do not be racist.
+
+<a href=
+
+<body link="#C0C0C0" vlink="#808080" alink="#FF0000"> 
